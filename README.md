@@ -4,11 +4,11 @@
 
 Ian is a Literary Chinese manuscript of individual consultations, symptoms, correspondence and follow-up from Edo-period Japan. The first case dates to 1789 and is signed by Wada Haku (Wada Tōkaku, Taijun). Other entries carry different signatures including Minamoto Genkai. This Fujikawa Collection copy has a copying note dated 1837.
 
-## V0.1.0
+## V0.2.0
 
-全 22 幅編目，轉錄正文、欄末款署、小字、函題及後封抄記。空白書面也保留原圖定位。AI 輔助初錄，未辨字形皆有定位。
+全 22 幅編目，轉錄正文、欄末款署、小字、函題及後封抄記。空白書面也保留原圖定位。比對未見初稿的本機 OCR 候選後，回圖裁定採用 4 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All 22 scans are indexed, covering the case records, signatures, small notes, case label and copying note. Blank surfaces are indexed separately. AI-assisted initial transcription with unresolved readings referenced to the source.
+All 22 scans are indexed, covering the case records, signatures, small notes, case label and copying note. Blank surfaces are indexed separately. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 4 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 

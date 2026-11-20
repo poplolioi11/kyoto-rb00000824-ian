@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -194,7 +194,7 @@
               <seg type="diplomatic-text">鹿坂之外道平坦如砥然矣是以輿夫</seg>
             </ab>
             <ab type="column" n="7" xml:id="f04-l-c07">
-              <seg type="diplomatic-text">乃徒徙者皆免勞劬僅經二宿以至府</seg>
+              <seg type="diplomatic-text">乃徒徒者皆免勞劬僅經二宿以至府</seg>
             </ab>
             <ab type="column" n="8" xml:id="f04-l-c08">
               <seg type="diplomatic-text">下實四月廿五日云久居侯春秋十有</seg>
@@ -208,7 +208,7 @@
             </ab>
             <ab type="page-feature" subtype="seal" corresp="#f04-l-c09">
               <label>左頁欄外橢圓印數字</label>
-              <seg type="diplomatic-text" rend="unknown">183406　大7.3.31</seg>
+              <seg type="diplomatic-text" rend="unknown">183406　大正7.3.31</seg>
             </ab>
             <ab type="page-feature" subtype="seal" corresp="#f04-l-c09">
               <label>左頁內側縱長朱印</label>
@@ -217,6 +217,12 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">右面：前襯空白。主面無可辨正文，右上與縫側有色痕和背面透印。 左面：「寛政元年己酉」為正文首案時間（1789），保留內文，不據以定鈔本製作年。橢圓戳數字前的「大」是候讀。第7欄「徒徙」後字亦候從。</ab>
+            <ab type="transcription-issue" n="left:7">
+              <quote>徒徒</quote>
+              <seg type="candidate">徒徒</seg>
+              <seg type="candidate">從從</seg>
+              <note type="editorial">原圖留讀及異讀候選。</note>
+            </ab>
           </div>
         </div>
         <pb n="5" facs="#f05" />
@@ -622,6 +628,12 @@
             <ab type="transcription-issue" n="left:9">
               <quote>□</quote>
               <note type="editorial">部分筆畫不清，原圖字形待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>蟬</quote>
+              <seg type="candidate">蟬</seg>
+              <seg type="candidate">蜱</seg>
+              <note type="editorial">原圖留讀及異讀候選。</note>
             </ab>
           </div>
         </div>
@@ -1181,7 +1193,7 @@
               <seg type="diplomatic-text">當歸四逆湯兼灼艾日千壯今已五日</seg>
             </ab>
             <ab type="column" n="9" xml:id="f19-r-c09">
-              <seg type="diplomatic-text">聊布愚衷列位國手其圖之</seg>
+              <seg type="diplomatic-text">聊布愚衷列位国手其圖之</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -1263,6 +1275,12 @@
               <quote>胎</quote>
               <note type="editorial">第1欄「織／識」、「侍／待」及第7欄「胎」待核。第3欄照圖作巨里，另候虛里。第5欄庖下一字待判。</note>
             </ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>巨里</quote>
+              <seg type="candidate">巨里</seg>
+              <seg type="candidate">虛里</seg>
+              <note type="editorial">原圖留讀及異讀候選。</note>
+            </ab>
           </div>
         </div>
         <pb n="21" facs="#f21" />
@@ -1284,7 +1302,7 @@
               <seg type="diplomatic-text">可知也乃解勞湯兼灸背部數万壯以</seg>
             </ab>
             <ab type="column" n="6" xml:id="f21-r-c06">
-              <seg type="diplomatic-text">觀進退矣兹陳狂愚取捨在國手明斷</seg>
+              <seg type="diplomatic-text">觀進退矣兹陳狂愚取捨在国手明斷</seg>
             </ab>
             <ab type="column" n="7" xml:id="f21-r-c07">
               <seg type="diplomatic-text">己巳正月廿五日　譽田復頓首拜</seg>

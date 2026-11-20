@@ -4,7 +4,7 @@ message: If you use this transcription, please cite the dataset version and the 
 title: '醫案（京都大學 イ/2，天保八年抄記） / Ian [Case records of Wada Tōkaku and other physicians]:
   Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

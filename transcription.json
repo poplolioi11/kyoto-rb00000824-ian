@@ -17,11 +17,11 @@
     "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000824/manifest.json",
     "manifest_sha256": "52d750b30050150532b5e34b71555aab0b2dc3a83ba77c48dc48e073fe06d5de",
     "record_id": "RB00000824",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": null,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "醫案（京都大學 イ/2，天保八年抄記） / Ian [Case records of Wada Tōkaku and other physicians]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -176,7 +176,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "wada-case",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -205,7 +205,7 @@
               "text": "鹿坂之外道平坦如砥然矣是以輿夫"
             },
             {
-              "text": "乃徒徙者皆免勞劬僅經二宿以至府"
+              "text": "乃徒徒者皆免勞劬僅經二宿以至府"
             },
             {
               "text": "下實四月廿五日云久居侯春秋十有"
@@ -225,7 +225,7 @@
             {
               "type": "seal",
               "location": "左頁欄外橢圓印數字",
-              "text": "183406　大7.3.31",
+              "text": "183406　大正7.3.31",
               "column_anchor": 9,
               "color": "unknown"
             },
@@ -239,7 +239,18 @@
           ]
         }
       ],
-      "issues": [],
+      "issues": [
+        {
+          "side": "left",
+          "column": 7,
+          "context": "徒徒",
+          "candidates": [
+            "徒徒",
+            "從從"
+          ],
+          "note": "原圖留讀及異讀候選。"
+        }
+      ],
       "observations": "右面：前襯空白。主面無可辨正文，右上與縫側有色痕和背面透印。 左面：「寛政元年己酉」為正文首案時間（1789），保留內文，不據以定鈔本製作年。橢圓戳數字前的「大」是候讀。第7欄「徒徙」後字亦候從。"
     },
     {
@@ -257,7 +268,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "wada-case",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -395,7 +406,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "wada-case",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -547,7 +558,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "wada-case",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -634,7 +645,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "wada-case",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -729,7 +740,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "wada-case",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -792,7 +803,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "additional-case-records",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -840,6 +851,16 @@
           "context": "□",
           "candidates": [],
           "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "蟬",
+          "candidates": [
+            "蟬",
+            "蜱"
+          ],
+          "note": "原圖留讀及異讀候選。"
         }
       ],
       "observations": "右面：藍格空頁，見淡色背面透印及邊緣紙痕。 左面：第1欄「七月某日」與「君」間空一字多；「阻」左阜右且。第3欄「蟬」右單，「短澁」前有墨點。第4欄「墨墨」兩字下部見土，依原形。第6欄「云」以下為反面透印。第7欄「元凱謹按」與「君」間有空。末字形近遂，句義或牽涉隧，暫缺，影像2000寬版約 x290–344、y1070–1130。"
@@ -859,7 +880,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "additional-case-records",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1001,7 +1022,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "additional-case-records",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1126,7 +1147,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "additional-case-records",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1198,7 +1219,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "additional-case-records",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1342,7 +1363,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "additional-case-records",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1449,7 +1470,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "additional-case-records",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1551,7 +1572,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "additional-case-records",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1647,7 +1668,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "additional-case-records",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1714,7 +1735,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "additional-case-records",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1744,7 +1765,7 @@
               "text": "當歸四逆湯兼灼艾日千壯今已五日"
             },
             {
-              "text": "聊布愚衷列位國手其圖之"
+              "text": "聊布愚衷列位国手其圖之"
             }
           ],
           "extras": []
@@ -1824,7 +1845,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "additional-case-records",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1879,6 +1900,16 @@
           "context": "胎",
           "candidates": [],
           "note": "第1欄「織／識」、「侍／待」及第7欄「胎」待核。第3欄照圖作巨里，另候虛里。第5欄庖下一字待判。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "巨里",
+          "candidates": [
+            "巨里",
+            "虛里"
+          ],
+          "note": "原圖留讀及異讀候選。"
         }
       ],
       "observations": "右面：藍框空白，未見當面正文。 左面：第1欄「織／識」、「侍／待」及第7欄「胎」待核。第3欄照圖作巨里，另候虛里。第5欄庖下一字待判。"
@@ -1898,7 +1929,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "additional-case-records",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1919,7 +1950,7 @@
               "text": "可知也乃解勞湯兼灸背部數万壯以"
             },
             {
-              "text": "觀進退矣兹陳狂愚取捨在國手明斷"
+              "text": "觀進退矣兹陳狂愚取捨在国手明斷"
             },
             {
               "text": "己巳正月廿五日　譽田復頓首拜"

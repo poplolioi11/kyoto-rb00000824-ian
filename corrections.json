@@ -1,0 +1,671 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 4,
+  "changes": [
+    {
+      "image": 4,
+      "side": "left",
+      "column": 7,
+      "kind": "main",
+      "op": "replace",
+      "before": "乃徒徙者",
+      "after": "乃徒徒者",
+      "reason": "同欄相鄰兩字右部同為土下止形，維持手稿重字。",
+      "source_bbox": [
+        1200,
+        900,
+        1465,
+        1730
+      ],
+      "offset": [
+        0,
+        4
+      ],
+      "source_image_sha256": "95f98a9e232f5a5758582299bdb7f7d5ff7299f091685b6da16cb781a1082445",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p4"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "replace",
+      "before": "183406　大7.3.31",
+      "after": "183406　大正7.3.31",
+      "reason": "橢圓印年份前是兩個緊鄰的字形。放大見大下的撇與其右正的橫豎。",
+      "source_bbox": [
+        1230,
+        548,
+        1630,
+        780
+      ],
+      "offset": [
+        0,
+        14
+      ],
+      "source_image_sha256": "95f98a9e232f5a5758582299bdb7f7d5ff7299f091685b6da16cb781a1082445",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p4"
+    },
+    {
+      "image": 19,
+      "side": "right",
+      "column": 9,
+      "kind": "main",
+      "op": "replace",
+      "before": "列位國手",
+      "after": "列位国手",
+      "reason": "方框內是玉形，依手稿保留国字形。",
+      "source_bbox": [
+        3290,
+        1880,
+        3520,
+        3010
+      ],
+      "offset": [
+        4,
+        8
+      ],
+      "source_image_sha256": "06d1c2fefdef30eace5370e5f3f5771668d0daca5d94241d2ab8281bc84f6b45",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p19"
+    },
+    {
+      "image": 21,
+      "side": "right",
+      "column": 6,
+      "kind": "main",
+      "op": "replace",
+      "before": "取捨在國手",
+      "after": "取捨在国手",
+      "reason": "原書方框內作玉形，保存国。",
+      "source_bbox": [
+        3780,
+        1850,
+        4020,
+        2960
+      ],
+      "offset": [
+        8,
+        13
+      ],
+      "source_image_sha256": "15d2bf90ed9b80d14e99c02a8d86138afdef983ae7a2b4b625b5d5223a6e43c4",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p21"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 3,
+      "side": "single",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p3",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p4",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p5",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p5",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p5",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p5",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p5",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p8",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 10,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p10",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 10,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p10",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 11,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p11",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 11,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p11",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 11,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p11",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p11",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p11",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p12",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p12",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p12",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p12",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 12,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p12",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 13,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p13",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 14,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p14",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 14,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p14",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 14,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p14",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 14,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p14",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p14",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p14",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p14",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p14",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 15,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p15",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 15,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p15",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 15,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p15",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 15,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p15",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p16",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p16",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p16",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p16",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p16",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p16",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 17,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p17",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 17,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p17",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 17,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p17",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 18,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p18",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 19,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p19",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 19,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p19",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 19,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p19",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 19,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p19",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 20,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p20",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 20,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p20",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 20,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p20",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 21,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p21",
+      "status": "疑處留存可定位紀錄"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 4,
+      "side": "left",
+      "column": 2,
+      "source_bbox": [
+        2160,
+        670,
+        2410,
+        2100
+      ],
+      "source_image_sha256": "95f98a9e232f5a5758582299bdb7f7d5ff7299f091685b6da16cb781a1082445",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p4",
+      "reading": "寛政元年己酉",
+      "status": "依原圖留讀",
+      "reason": "寛政與元年、干支均可辨。此指病例日期，不當抄年。"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 7,
+      "source_bbox": [
+        1210,
+        1640,
+        1480,
+        2650
+      ],
+      "source_image_sha256": "95f98a9e232f5a5758582299bdb7f7d5ff7299f091685b6da16cb781a1082445",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p4",
+      "reading": "勞劬",
+      "status": "依原圖留讀",
+      "reason": "勞下左句右力，維持舊讀。"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 8,
+      "source_bbox": [
+        1020,
+        890,
+        1280,
+        2060
+      ],
+      "source_image_sha256": "95f98a9e232f5a5758582299bdb7f7d5ff7299f091685b6da16cb781a1082445",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p4",
+      "reading": "四月廿五日",
+      "status": "依原圖留讀",
+      "reason": "廿配五，日期不改。"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 4,
+      "source_bbox": [
+        4010,
+        870,
+        4260,
+        1710
+      ],
+      "source_image_sha256": "8ff8fb4ef7817cb07f369043094c023739f2215ad7cf5532b096bb5f3613554d",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p5",
+      "reading": "日巳牌",
+      "status": "依原圖留讀",
+      "reason": "前幅欄續讀，牌前字有巳的閉頭。"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 4,
+      "source_bbox": [
+        1730,
+        1720,
+        2020,
+        3410
+      ],
+      "source_image_sha256": "ced252906dd6b2b33a83d3e4f1eac15611aa8a8cd1ebd0d89a282fea5639b978",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p8",
+      "reading": "至十八日全止",
+      "status": "依原圖留讀",
+      "reason": "十、八各占字位。"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 5,
+      "source_bbox": [
+        1575,
+        2170,
+        1840,
+        3460
+      ],
+      "source_image_sha256": "ced252906dd6b2b33a83d3e4f1eac15611aa8a8cd1ebd0d89a282fea5639b978",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p8",
+      "reading": "諸症者十七",
+      "status": "依原圖留讀",
+      "reason": "十七跨欄接八。維持各自的字位。"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 1,
+      "source_bbox": [
+        2180,
+        2150,
+        2500,
+        3460
+      ],
+      "source_image_sha256": "e67d5e98f0886f43bfa242f6a3974cce1d2ed9a7b6c090452d14736dfc3da06e",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p9",
+      "reading": "和田璞撰",
+      "status": "依原圖留讀",
+      "reason": "同欄下段獨立署款，璞從玉、菐。"
+    },
+    {
+      "image": 10,
+      "side": "left",
+      "column": 4,
+      "source_bbox": [
+        1880,
+        1440,
+        2160,
+        2770
+      ],
+      "source_image_sha256": "3b968a4df063d7d4234e5a4a84355ac993835afc584e0dd04ea234cc08bda47b",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p10",
+      "reading": "墨墨欲寐",
+      "status": "依原圖留讀",
+      "reason": "重寫字下方有土形，維持墨墨。"
+    },
+    {
+      "image": 10,
+      "side": "left",
+      "column": 7,
+      "source_bbox": [
+        1260,
+        840,
+        1490,
+        1830
+      ],
+      "source_image_sha256": "3b968a4df063d7d4234e5a4a84355ac993835afc584e0dd04ea234cc08bda47b",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p10",
+      "reading": "元凱謹按",
+      "status": "依原圖留讀",
+      "reason": "此處另有元凱署款。"
+    },
+    {
+      "image": 19,
+      "side": "left",
+      "column": 1,
+      "source_bbox": [
+        2220,
+        925,
+        2550,
+        3070
+      ],
+      "source_image_sha256": "06d1c2fefdef30eace5370e5f3f5771668d0daca5d94241d2ab8281bc84f6b45",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000824/canvas/p19",
+      "reading": "己巳春正月廿五日",
+      "status": "依原圖留讀",
+      "reason": "干支月份保留原句，未推公元年。"
+    }
+  ]
+}
