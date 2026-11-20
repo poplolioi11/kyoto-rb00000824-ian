@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: If you use this transcription, please cite the dataset version and the source
+  copy.
+title: '醫案（京都大學 イ/2，天保八年抄記） / Ian [Case records of Wada Tōkaku and other physicians]:
+  Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/kyoto-rb00000824-ian
+keywords:
+- 醫案
+- 医案
+- 和田璞
+- 和田東郭
+- 泰純
+- 源元凱
+- 富士川文庫
+- Wada Tōkaku
+- Edo medical history
+- case records
+- kanbun
